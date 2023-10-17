@@ -11,3 +11,4 @@ Fuchsia
 Purple
 Brown
 Red
+git config --global user.name "Your Name"
